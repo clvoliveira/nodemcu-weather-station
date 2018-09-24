@@ -3,8 +3,8 @@
 -- Prof. Claudio L. V. Oliveira
 
 ACESSO        = {}
-ACESSO.ssid   = "Professores"
-ACESSO.pwd    = "13profs20"
+ACESSO.ssid   = "AP"
+ACESSO.pwd    = "SENHA"
 ACESSO.save   = false
 
 ALARME_CON    = 0
