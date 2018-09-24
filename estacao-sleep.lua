@@ -18,7 +18,7 @@ SEG_PARA_MS   = 1000
 MS_PARA_US    = 1000
 
 DEPURAR       = true
-CHAVE_THNGSPK = "XIB11MTQBU8QET1U"
+CHAVE_THNGSPK = "CHAVE"
 
 -- Pinos utilizados
 -- DHT11
