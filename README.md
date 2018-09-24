@@ -8,7 +8,7 @@ Material:<br />
   <li>DHT11 (Sensor de Temperatura e Umidade).
   <li>BMP180 (Sensor Barométrico).
   <li>Display de LCD de 16 colunas e 2 linhas com interface i2c.
-  <li>Resistor de 4,7 kOhms<br />.
+  <li>Resistor de 4,7 kOhms.
   <li>Protoboard.
   <li>Cabos para ligação.
 </ul>
